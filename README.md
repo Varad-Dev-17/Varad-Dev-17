@@ -11,7 +11,7 @@ Always exploring new technologies and improving development skills 🌱
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80"> A little more about me...
 
 ✨ I enjoy building backend applications and solving real-world problems through code.  
 💡 Interested in software engineering, web development and modern technologies.  
